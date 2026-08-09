@@ -25,3 +25,4 @@ Bu depo yalnızca **resmi indirme / Release** içindir. Kaynak kodu private tutu
 ## Lisans
 
 Tüm hakları saklıdır. Ayrıntılar: [LICENSE](LICENSE)
+
